@@ -1,3 +1,4 @@
+# Hardware Overview
 ## **AIRAI 3**
 The illustrations below use the AIRAI3-NX-5G as an example. Unless otherwise specified, the descriptions apply to the both models in the AIRAI 3 series.
 
