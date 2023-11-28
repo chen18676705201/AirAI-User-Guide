@@ -1,14 +1,5 @@
-# Headline
+# Product overview
 
-> An awesome project.
-> 希望可以做
-> 终于可以了
-[123]
-# ASDF
+## What is AirAI3?
 
-# 更换名称
-# 更换名称2
-# 更换名3
-# 更换名4
-# 更换名5
-# 更换名6
+AIRAI3 is the third-generation microcomputer specifically designed for drone developers. It is equipped with NVIDIA Jetson Xavier NX or Orin NX module, capable of rapid complex graphics processing. It also features 5G remote network connectivity and WIFI6 network connection capabilities. With the built-in AIRAISDK, it allows for quick deployment of open-source QGC ground station control for DJI industry drones and AI models. The AIRAI3 series provides multiple interfaces to connect to different external devices, compatible with DJI M3 Industrial Edition, M30 series, M350RTK, M300RTK, PX4, and other open-source flight control systems, offering greater flexibility and scalability, as well as providing users with rich and convenient development pathways.
